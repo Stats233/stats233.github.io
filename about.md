@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-呵你猜不到的
+自由派，左派，democrat，理想主义者，完美主义者
 
 ### Contact me
 
