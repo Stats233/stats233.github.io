@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一名大学生，除了躺平啥都不会
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+呵你猜不到的
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+想匿名上网来着，不用联系了吧～
